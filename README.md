@@ -1,5 +1,3 @@
 # Kushdeep Walia
 
-<div>
-  <a href="https://github.com/kushdeepwalia/">Github</a>
-</div>
+![Kushdeep's github stats](https://github-readme-stats.vercel.app/api?username=kushdeepwalia&show_icons=true&theme=radical)
