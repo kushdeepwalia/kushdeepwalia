@@ -6,4 +6,4 @@
 
 ![Kushdeep's github stats](https://github-readme-stats.vercel.app/api?username=kushdeepwalia&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushdeepwalia&layout=compact)](https://github.com/lushdeepwalia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushdeepwalia&layout=compact&theme=great-gatsby)](https://github.com/lushdeepwalia/github-readme-stats)
